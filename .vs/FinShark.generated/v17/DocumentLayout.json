@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\mappers\\stockmappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\dtos\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\dtos\\stock\\updatestockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\dtos\\stock\\createstockrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\dtos\\comment\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\dtos\\comment\\updatecommentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\dtos\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\dtos\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\dtos\\account\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\dtos\\account\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\dtos\\account\\newuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\dtos\\account\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\models\\portfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\extensions\\claimsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\extensions\\claimsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\repository\\portfoliorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|c:\\users\\obasi chukwuemeka\\desktop\\tech\\c#api\\new project\\finshark\\api\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3287C873-5B9E-40F3-B311-E59DCB9C573C}|api\\api.csproj|solutionrelative:api\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:35:54.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockMappers.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Mappers\\StockMappers.cs",
+              "RelativeDocumentMoniker": "api\\Mappers\\StockMappers.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Mappers\\StockMappers.cs",
+              "RelativeToolTip": "api\\Mappers\\StockMappers.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:45:54.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "api\\Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:22:55.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateCommentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Comment\\UpdateCommentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:45:25.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateStockRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Stock\\CreateStockRequestDto.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:45:28.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StockDto.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Stock\\StockDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Stock\\StockDto.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Stock\\StockDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Stock\\StockDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:45:31.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Comment\\CreateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:45:23.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Comment\\CommentDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Comment\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Comment\\CommentDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Comment\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:45:22.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Account\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Account\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Account\\RegisterDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Account\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:45:17.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "api\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "api\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:45:40.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repository\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "api\\Repository\\CommentRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:12:59.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Account\\LoginDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Account\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Account\\LoginDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Account\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:55:34.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateStockRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Stock\\UpdateStockRequestDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T12:45:34.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "api\\Interfaces\\IStockRepository.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "api\\Interfaces\\IStockRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:27:41.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repository\\StockRepository.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "api\\Repository\\StockRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:50:17.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Portfolio.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Models\\Portfolio.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Portfolio.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Models\\Portfolio.cs",
+              "RelativeToolTip": "api\\Models\\Portfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:49:25.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Models\\Stock.cs",
+              "RelativeToolTip": "api\\Models\\Stock.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:49:20.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PortfolioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Repository\\PortfolioRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repository\\PortfolioRepository.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Repository\\PortfolioRepository.cs",
+              "RelativeToolTip": "api\\Repository\\PortfolioRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAnwCgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:48:49.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClaimsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Extensions\\ClaimsExtensions.cs",
+              "RelativeDocumentMoniker": "api\\Extensions\\ClaimsExtensions.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Extensions\\ClaimsExtensions.cs",
+              "RelativeToolTip": "api\\Extensions\\ClaimsExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:29:51.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Account\\NewUserDto.cs",
+              "RelativeDocumentMoniker": "api\\Dtos\\Account\\NewUserDto.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Dtos\\Account\\NewUserDto.cs",
+              "RelativeToolTip": "api\\Dtos\\Account\\NewUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T23:27:21.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCcAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:15:22.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "api\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Models\\AppUser.cs",
+              "RelativeToolTip": "api\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:12:56.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "api\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Models\\Comment.cs",
+              "RelativeToolTip": "api\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:38:19.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Service\\TokenService.cs",
+              "RelativeDocumentMoniker": "api\\Service\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Obasi Chukwuemeka\\Desktop\\Tech\\C#API\\New Project\\FinShark\\api\\Service\\TokenService.cs",
+              "RelativeToolTip": "api\\Service\\TokenService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wBQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:57:40.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
